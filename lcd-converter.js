@@ -108,4 +108,4 @@ function lcd(numToDisplay) {
   }
 }
 
-lcd(1234567890);
+// lcd(1234567890);
